@@ -1,15 +1,15 @@
 {
-  "name": "@universalviewer/uv-en-gb-theme",
-  "version": "1.1.2",
+  "name": "@gabrielboisseau-baclac/uv-archives-canada-theme",
+  "version": "1.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UniversalViewer/uv-en-gb-theme.git"
+    "url": "git+https://github.com/gabrielboisseau-baclac/uv-archives-canada-theme.git"
   },
-  "author": "@edsilv",
+  "author": "@gabrielboisseau-baclac",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UniversalViewer/uv-en-gb-theme/issues"
+    "url": "https://github.com/gabrielboisseau-baclac/uv-archives-canada-theme/issues"
   },
-  "homepage": "https://github.com/UniversalViewer/uv-en-gb-theme#readme"
+  "homepage": "https://github.com/gabrielboisseau-baclac/uv-archives-canada-theme#readme"
 }
