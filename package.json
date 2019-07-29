@@ -1,15 +1,15 @@
 {
-  "name": "@gabrielboisseau-baclac/uv-archives-canada-theme",
+  "name": "@gabrielboisseau-archivescanada/uv-archives-canada-theme",
   "version": "1.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrielboisseau-baclac/uv-archives-canada-theme.git"
+    "url": "git+https://github.com/gabrielboisseau-archivescanada/uv-archives-canada-theme.git"
   },
-  "author": "@gabrielboisseau-baclac",
+  "author": "@gabrielboisseau-archivescanada",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gabrielboisseau-baclac/uv-archives-canada-theme/issues"
+    "url": "https://github.com/gabrielboisseau-archivescanada/uv-archives-canada-theme/issues"
   },
-  "homepage": "https://github.com/gabrielboisseau-baclac/uv-archives-canada-theme#readme"
+  "homepage": "https://github.com/gabrielboisseau-archivescanada/uv-archives-canada-theme#readme"
 }
